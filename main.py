@@ -6,8 +6,11 @@ set_site_information(
     author="crowleyl@udel.edu",
     description="A monthly budget and expense tracker for college students.",
     sources=["Drafter documentation", "CISC106 lecture notes"],
-    planning=["Part 0 and Part 1 Planning Documents"],
-    links=["https://github.com/"]
+    planning=[
+        "Copy of CS1 Final Project 0_ Pick a Problem.pdf",
+        "Copy of CS1 Final Project 1_ Design (1).pdf"
+    ],
+    links=["https://github.com/crowleyl-design/Student-Budget-Tracker"]
 )
 set_website_title("Student Budget Tracker")
 
